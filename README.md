@@ -1,6 +1,3 @@
-Created by Codrops
+http://ulmdota.16mb.com/
 
-http://www.codrops.com
-
-Please read about our license: http://tympanus.net/codrops/licensing/
-
+A UI form using jquery,php and mysqli which saves the user input to the databse
